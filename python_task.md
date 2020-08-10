@@ -10,13 +10,13 @@ One of the methods for single-cell data preprocessing is filtering the gene expr
 
 ## Problems
 
-## Task 1
+### Task 1
 
 Write a python function to filter columns of the gene expression matrix, i.e. genes, so that you keep genes that have at least `min_counts` counts or are expressed in at least `min_cells` cells or have at most `max_counts` counts or are expressed in at most `max_cells` cells.
 
 The function receives a matrix (dense or sparse) and returns filtered matrix of the same type. For speedup the function should work on GPU. Consider using RAPIDS data science framework including CuPy library.
 
-## Task 2
+### Task 2
 
 A software developer has written a function that filters cells and made a pull request. Review their code and write your comments and suggestions. Please see the file with code [attached](filter_cells.py).
 
