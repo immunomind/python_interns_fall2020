@@ -18,7 +18,7 @@ The function receives a matrix (dense or sparse) and returns filtered matrix of 
 
 ## Task 2
 
-A software developer has written a function that filters cells and made a pull request. Review their code and write your comments and suggestions. Please see the file with code attached.
+A software developer has written a function that filters cells and made a pull request. Review their code and write your comments and suggestions. Please see the file with code [attached](filter_cells.py).
 
 
 ## Data
